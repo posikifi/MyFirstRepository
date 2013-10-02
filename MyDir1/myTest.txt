@@ -3,4 +3,5 @@ Here is my text file in MyDir1
 
 Web: add something here
 ---
+terminal: additional ine
 
